@@ -1,0 +1,13 @@
+package hello;
+/**
+ * 
+ * @author LyeKios
+ *
+ */
+public class VariableTest {
+	
+	Integer in = new Integer(100);
+	int m = in.intValue();
+	System.out.println(m);
+
+}

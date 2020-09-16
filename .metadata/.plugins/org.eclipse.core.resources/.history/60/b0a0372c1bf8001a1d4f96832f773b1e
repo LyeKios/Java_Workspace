@@ -14,10 +14,9 @@ public class VariableTest {
 //		post.content = "内容";
 //		post.print();
 	
-		Integer in = Integer.valueOf(100);
+		Integer in = new Integer(100);
 		int m = in.intValue();
 		System.out.println(m);
-		System.out.println("int类型的最大值：Integer.MAX_VALUE=" + Integer.MAX_VALUE); 
 	}
 
 }
