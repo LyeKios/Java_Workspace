@@ -1,0 +1,12 @@
+package hello;
+
+public class for_ {
+	public static void main(String[] args) {
+		String[] sentences = {"hello", "thank u", "thank u very much"};
+		for (String sentence : sentences) {
+		    System.out.println(sentence);
+		}
+	}
+		
+
+}
