@@ -8,7 +8,6 @@ public class Post {
 		
 		System.out.println(title);
 		System.out.println(content);
-		
 	}
 
 }
